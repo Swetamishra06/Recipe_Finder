@@ -1,0 +1,713 @@
+<resources>
+    <string name="app_name">Recycler view</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+<string name="mycontent">
+   In a mixing bowl, take 1 cup flour. Add 2 tablespoons besan or gram flour, a pinch of baking soda and ⅛ teaspoon turmeric powder.—>Mix all the above dry ingredients very well with a spoon or spatula.Now add ¾ to 1 cup waterWith the spatula first mix. Break any lumps while mixing.There should be no lumps in the batter.
+        The batter should have a flowing consistency. Cover and keep the batter to ferment in a warm place for 12 to 24 hours Stir the batter.
+         To thicken the batter again, add 1 to 2 tablespoons  flour. At this step, add flour accordingly.
+         Mix very well with a spoon or wired whisk.Pour the completed batter in a squeezy bottle . Keep aside.
+         Take 1 cup sugar in a pan. Add ¼ teaspoon saffron strands to it.
+         Add saffron, as it gives a nice orange-yellow color and a fragrant aroma to the jalebis.
+         Add ½ cup water.Place the pan on the stovetop over a low heat and begin to stir so that all the sugar dissolves.
+         On a low to medium heat, cook the sugar syrup. Stir at intervals Cook till you get one string consistency in the sugar syrup once you get the one string consistency, switch off the heat and add ¼ teaspoon of lime or lemon juice. Stir well.
+        Keep the sugar syrup on the burner itself so that it remains warm when you add jalebi in it.
+        Heat ghee or oil for deep frying in a heavy bottomed wok or pan. Ghee gives a better flavor. quickly and gradually the oil is hot enough for the jalebis to be fried.
+        Now squeeze the bottle and make concentric rings with the batter.Either start from the center and move outside or vice versa.You won’t get perfect shapes as the jalebis keep on moving while you make the circles. This does require practice and it also depends on what equipment you are using to make them.
+        When one side is partly cooked and the batter has firmed up, turn over with a pair of tongs and fry the other side Fry till the oil stops sizzling and the jalebis are a light golden.  shaking them to drain the extra oil.8. Fry till the oil stops sizzling and the jalebis are a light golden.Keep them in the syrup for about 2 to 3 minutes. If you keep for two minutes, they will be lightly colored and if you keep for 3 minutes or more, they will have a deeper color.Remove with a wooden skewer or tongs. Shake lightly so that the excess sugar syrup falls back in the pan. Place them on a plate or tray lined with a foil or butter paper.
+</string>
+    <string name ="mydish1">
+          Take water in a pan, add salt followed by olive oil and bring to boil.
+                Add noodles and cook bite like — just blanch if fresh and cook longer if dry.
+                Drain immediately and cool under running water till noodles are thoroughly cooled.
+                Work 1 tablespoon of the oil into the noodles and leave in the colander till required.
+                Keep aside a small bowl of green chilli dipped in vinegar for garnishing.
+                Now, heat some oil in a heavy bottom pan and stir- fry garlic, ginger garlic paste and onions over high heat till onions are golden brown..
+                Add celery and mushrooms followed by red and green capsicum along with carrot. Stir well.
+                Now add salt, black pepper powder, tomato sauce, chilli sauce, soy sauce and vinegar to veggie mixture. Mix well.
+                Add the noodles to this and stir well till it is thoroughly mixed.
+                Garnish with red capsicum and pour the prepared green-chilli vinegar mix on top.
+                  It is now ready to serve.
+
+
+    </string>
+    <string name="mydish2">
+First, measure 1 cup of gram flour (besan) and pour it into a mixing bowl.Next, add in your chopped veggies and herbs.
+        Here are the ingredients you should include in this step:¼ cup finely chopped onions¼ cup finely chopped tomatoes½ teaspoon finely chopped ginger¼ cup finely chopped coriander leaves (cilantro)½ teaspoon finely chopped green chilies or serrano peppers
+                Then it is time to mix in the spices, including 2 to 3 pinches of turmeric powder, ½ teaspoon carom seeds (ajwain) and ¼ teaspoon red chili powder. Also add salt as per your liking at this step.Before you start to stir or combine your ingredients, first add half a cup of water to the besan cheela mixture.
+        Next use a wired whisk to combine all of the besan chilla ingredients. Then, add an additional 1 to 3 tablespoons of water, depending on the quality and texture of the besan.
+        Continue whisking until the batter has a smooth, flowing consistency. There should not be any lumps, so make sure to break those up while mixing the batter.
+        ladle scooping besan chilla batter out of mixing bowlFinally, you can begin cooking your besan chilla! I use a tawa (flat, round-shaped pan) to cook my besan cheela, but you can also use any well seasoned frying pan or a cast iron skillet or a non-stick pan.Next, gently use the back of the ladle or measuring cup (if you have used one) to spread the batter. Make sure you are spreading the batter gently so that the chilla does not break.
+        Then continue to cook the chilla on a low to medium-low heat until the top begins to look cooked or you start seeing some air-pockets.Additionally, you can drizzle oil (about ½ to 1 teaspoon) on the chilla at the edges and all around while it is cooking to help it not stick to the pan.In fact for a crispy chilla, you need to add more oil on the pan or skillet before pouring the batter.Next continue to cook until the base gets light golden.Then it’s time to flip your besan cheela and cook the other side.Then continue cooking until you see golden spots on the besan chilla. Cook your besan chilla evenly and well.
+    </string>
+    <string name="mydish3">
+In a mixing bowl, combine 2 cups (240 grams) of whole wheat flour (atta), ¼ teaspoon of salt, and 1 tablespoon of ghee or oil.
+        Gradually add water, starting with ¾ cup. Adjust the amount of water depending on the quality of the flour, aiming for a total of ¾ to 1 cup.
+        Knead the mixture into a smooth and soft dough. Cover the dough and set it aside to rest.
+        To make the stuffing:In a mortar and pestle, take ½ teaspoon of cumin seeds (jeera) and ½ teaspoon of fennel seeds (saunf). Lightly crush them and set aside.
+        Take 1 cup of roasted gram flour or roasted black chickpea flour (sattu) in a mixing bowl or pan.
+        Add the crushed cumin seeds and fennel seeds to the sattu.
+        Now, add ½ teaspoon of carom seeds (ajwain), ½ teaspoon of nigella seeds (kalonji), and ½ teaspoon of red chili powder to the sattu.
+        Next, add 1 to 2 teaspoons of chopped green chilies, 1 teaspoon of finely chopped ginger, and 1 teaspoon of finely chopped garlic.
+        Mix in 2 tablespoons of chopped coriander leaves, ¼ teaspoon of black salt, and regular salt to taste.
+        Add 2 teaspoons of lemon juice followed by 2 teaspoons of mustard oil.
+        Mix all the ingredients thoroughly.
+        Sprinkle 1 to 2 tablespoons of water evenly over the mixture and mix well. Add more water if needed, ensuring the mixture is neither too dry nor too wet.The stuffing should have a moist consistency for the best taste and texture.To assemble, shape, and make Litti:
+
+        After resting the dough for 30 minutes, divide it into small or medium-sized balls.For the first method, dust a little flour and roll each dough ball into a circle about 5 to 6 inches in diameter.Place 2 to 3 tablespoons of the stuffing mixture in the center of each rolled disc.Pleat and seal the edges of the disc to enclose the stuffing.Press the sealed part and gently roll the stuffed dough ball between your palms to form a round shape. Set aside.
+        Alternatively, flatten a dough ball with your palms to create a shallow cup.Fill the cup with the stuffing mixture.Carefully bring together the edges of the dough to encase the stuffing, pressing gently to seal the edges securely.This step may be a bit tricky, so use whichever method is more comfortable for you. Both methods have been provided for stuffing.Here are the prepared Littis using the second method. Keep them covered with a cotton towel or napkin to prevent the dough from drying outTo bake the LittiGrease a baking tray with oil and place the prepared Littis on it.Preheat the oven to 200°C/390°F for 20 minutes before baking.
+        After 10 to 15 minutes, remove the tray from the oven and flip each Litti. Return the tray to the oven.Repeat the flipping process every 10 to 15 minutes to ensure even baking.Bake for a total of about 30 to 35 minutes, or until the Littis develop light brown or golden brown spots on the crust.
+        Optionally, brush melted ghee over the baked Littis.
+        For charred spots, hold each Litti with tongs and briefly expose it to direct flame until charred.Serve the Bihari-style Litti with your choice of chokha, accompanied by a small bowl of melted ghee for dipping. Optionally, sprinkle ghee over the Littis before serving.
+
+    </string>
+<string name = "mydish4">
+    In a bowl mix gram flour, citric acid, salt, sugar and turmeric.
+            Add water and make it into a smooth batter with medium thick consistency.
+            In a glass add the fruit salt or baking powder. Add water to it and pour this into the dhokla mixture.
+            Grease the steaming tin with 2 drops of oil and pour the mixture into it.
+            Steam for about 15-20 minutes or till cooked.
+            In a pan, add oil, mustard seeds, curry leaves and red chillies. Let it splutter.
+            Pour the tadka over the prepared dhokla.
+    Cut into pieces and serve.
+
+</string>
+    <string name="mydish5">
+        Firstly, in a large bowl take 2 cup rava, 1 cup curd, and 1 tsp salt.
+        Add 1 cup water and mix well.
+        Mix and prepare the batter.
+        Further add ½ cup water, cover and rest for 20 minutes.
+        After resting the batter well mix it again.
+        Now add ½ onion, 1 carrot, ½ tomato, 2 tbsp coriander, few curry leaves and 2 chilli.
+        Mix well making sure everything is well combined.
+        Further, add ½ tsp eno fruit salt and 2 tbsp water. alternatively, you can use baking soda.
+        Mix gently forming a frothy batter.
+        Heat the appe pan and add oil to each mould.
+        Once the pan is hot enough, add in prepared rava batter.
+        Cover and simmer for 5 minutes.
+        Roast on low to medium flame until the appe turns golden brown.
+        Flip over and cook both sides.
+        Finally, enjoy rava appe recipe tastes great with chutney.
+
+    </string>
+    <string name = "mydish6">
+         To a large bowl, add flour, ajwain, salt and  oil ,mix well.
+                Once incorporated,  the mixture resembles crumbs.
+         Now, start adding water, little by little and mix to form a stiff doughDon’t overwork the dough and don’t knead a soft dough. It should just come together and form a stiff dough. Cover the dough with a moist cloth and let it rest for 40 minutes.Boil potatoes until done.8 to 9 whistles on high heat with natural pressure release , high pressure 12 minutes
+                Peel the skin and them mash the potatoes. Set aside.Heat 2 tablespoons of oil in a pan on medium heat. Once the oil is hot, add the cumin seeds, fennel seeds and crushed coriander seeds.
+                Let the seeds sizzle for few seconds and then add the chopped ginger, green chili and hing. Cook for 1 minute.
+              Add the boiled and mashed potatoes and green peas to the pan.
+                Mix everything togetherAdd the coriander powder, garam masala, amchur, red chili powder and salt.
+                Mix to combine. Once it’s all well incorporated, remove pan from heat and let the filling cool down a bit.
+            Once the dough has rested, give it a quick knead.Roll one dough ball into a circle-oval kind of shape,cut it into two parts.Take one part and apply water on the straight edge/side.Now bring the two ends of the straight edge together and pinch them to form a cone
+            Pinch the pointed ends to make it a perfect cone shape. Fill the samosa with the potato filling.
+            Now again apply water all around the circumference of the cone as you have to seal it.Now pinch the edges and seal the samosa.
+          Now heat oil in a kadai on low heat.Fry on low heat. After around 10-12 minutes, the samosa will become firm and light brown in color. serve it
+            </string>
+    <string name = "mydish7">
+            Roast 1 cup sooji/rava on medium heat until fragrant stirring continuously.  Remove sooji from the pan and transfer it to another bowl.
+            To the same pan now add 1and 1/2 tablespoons oil on medium heat. Add 1 teaspoon mustard seeds and let them pop.
+            Then add the following:
+            pinch of hing
+        7 to 8 cashew nuts (raw),
+        1 teaspoon chana dal ((soaked in water for 10 mins before)
+        1 teaspoon urad dal (soaked in water for 10 mins before)
+        1 teaspoon finely chopped gingerSauté for 1 minute until they start changing color.
+            Add 1 small red onion (finely chopped), 1 chopped green chili and around 12 curry leaves. Cook for 2 minutes until the onions are soft.
+        Then add 3 tablespoons of green peas and stir Cook for 2 minutes.Add 3 cups (24 oz) of water.
+        Then add 3/4 teaspoon salt (or to taste) to the water.
+         Also add 1 tablespoon chopped cilantro.
+            Add 1 teaspoon lemon juice and mix it well. You may also add sugar if you like a little sweet taste in your upma. You may add 1/2 teaspoon sugar.
+            Now let the water come to a boil.Once the water comes to a boil, start adding the roasted sooji a little at a time.
+            Mix sooji after each addition in one direction with a wooden spatula ,
+            Then cover the pan with a lid and set the heat to low. Let it remain like that for 2 mins.
+            Remove the lid and add 1 teaspoon of ghee. Serve upma warm with a side of peanut chutney or cilantro coconut chutney!
+    </string>
+    <string name = "mydish8">
+        First take all the ingredients in three bowls
+        1.5 cups idli rice or parboiled rice in one bowl.
+        ½ cup urad dal (husked black gram) + 1 tablespoon chana dal (husked and split bengal gram) + 20 methi seeds (fenugreek seeds) in a second bowl
+        ⅓ cup thick poha (flattened rice) in a third bowl.
+        rice, poha and dal in bowls
+        Rinse the lentils and fenugreek seeds a couple of times. Then soak them in 1 cup water for 4 to 5 hours.
+        lentils soaked in water
+         Rinse the rice a couple of times and keep aside.
+        soaked and rinsed and drained rice in a bowl
+        rinse flattened rice once or twice and then add to the rice.
+        poha and rice in a bowlPour 2 cups water. Stir and soak both rice and flattened rice together for 4 to 5 hours.
+        water added to bowl with rice and poha
+         Before grinding, strain the water from the soaked lentils+fenugreek seeds and keep it for grinding urad dal.
+         Add the lentils in the grinder jar. Also add ½ cup of the soaked and strained water to the lentils or ½ cup of fresh water if you like.
+        lentils added to grinder jarGrind the urad dal, chana dal and fenugreek seeds till you get a batter which is light and fluffy. The urad dal has to be ground really well, so that the dosa batter ferments well.
+        grinded lentils
+         Remove batter in a bowl or pan with a spatula. Strain the rice well. Then in the same grinder, add the soaked rice and 1 cup fresh water. You can grind rice in one batch or in two to three batches. This will depend on the size of the grinder jar
+        You can even add ¾ cup water while grinding. Addition of water will depend on the quality of rice. So you may need to add less or more water.
+        rice in the grinder jar
+         Grind the rice till you get a fine grainy consistency in it. The rice batter should have a fine rava (cream of wheat) like consistency of the ground rice grains
+        grinded riceNow pour the rice+flattened rice batter in the same pan or bowl containing the urad lentil batter.
+        grinded rice added to bowl containing grinded lentils
+        Add ½ teaspoon edible rock salt or add as per taste.
+        salt added to bowl Mix the salt very well with the ground batter. Also, mix both the rice batter and the urad lentil batter thoroughly. Cover with a lid and keep aside to ferment for 8 to 9 hours at room temperature.
+        You can keep for less or more time and this will depend on the temperature conditions in your city. It can take anywhere from 6 hours to a day or more for it to ferment.
+        In the Indian summers, the batter ferments quickly and during winters it takes a longer duration of time.
+        mix the batter
+        You can also use the yogurt setting of your Instant Pot to ferment. Use the “low” option when using the yogurt setting as the “medium” option will cook the batter instead of fermenting it. Cover with a separate lid and not the Instant pot lid as it can get locked.
+            For fermenting batter in the instant pot, time will vary from 8 to 12 hours
+        A well fermented batter will double or triple in volume, have a pleasant sour aroma with many tiny air-pockets.
+        Once your batter is nicely fermented, cover and refrigerate it when you start to make the potato masala stuffing. In hotter seasons, the batter kept at room temperature will continue to ferment and will become very sour.
+        fermented batter after some hours
+         Make Potato Filling
+         First rinse and then boil 4 medium sized potatoes in 2 cups water for 5 to 6 whistles in a pressure cooker.
+        You can also boil potatoes in a pan or in an Instant pot. The potatoes have to be completely cooked and fork tender.
+        boiling potaotes in a pressure cooker
+        When the potatoes are cooking, rinse and soak 1 tablespoon chana dal in ¼ cup hot water for 30 minutes. Then drain all the water from the chana dal and set aside.chana dal soaked in water in a bowl
+        When the pressure settles down on its own in the cooker, remove the lid. Drain the potatoes and let them become warm.
+        cooked potaotes
+            Then peel and chop them. Also, thinly slice 2 medium to large onions (200 grams) and chop 1 to 2 green chilies, finely chop 1 inch ginger and some coriander leaves. When you measure, you should have:.25 cups thinly sliced onions
+        1 teaspoon chopped green chillies
+        1 teaspoon finely chopped ginger
+        3 tablespoons chopped coriander leaves
+        potaotes onions chillies in a board
+        Heat oil or ghee in a frying pan or skillet. If using cashews, then fry 2 tablespoons cashews at this step and keep them aside.
+        Lower the heat and add mustard seeds and let them splutter. You can add ½ teaspoon cumin seeds while tempering.
+        crackling mustard seeds in a frying pan
+         Then add the chana dal.
+         Saute the chana dal for 2 to 3 minutes on a low heat or till they turn light golden or golden.
+        sauteing chana dal,Now add the sliced onions, curry leaves, green chilies and ginger.
+        adding onions curry leaves ginger chillies
+        Sauté the onions till they soften and turn translucent. Stir often while sautéing onions so that they get evenly cooked.
+        sauteing onions
+            Add the turmeric powder and asafoetida (hing). To make it gluten-free use the gluten-free asafoetida or skip it altogether.
+        turmeric and hing added
+         Mix very well.
+        mix the potato filling mixture
+         Now add ½ cup water.
+        adding water
+         Again mix well and simmer for 2 to 3 minutes or till the mixture thickens a bit.
+        Next add the boiled chopped potatoes
+        Mix very well. You can choose to mash the potatoes slightly while cooking.
+        mixing potato filling mixture
+            Season with salt according to taste. Also add ¼ to ½ teaspoon sugar for a slightly sweet taste.
+        salt addedAnd stir again.
+        mix mixture again
+        Simmer on a low to medium-low heat for 3 to 4 minutes stirring occasionally.
+            Switch off the heat and then add chopped coriander leaves. Also add fried cashews now,Mix well.
+         Stir and keep the potato masala aside. The potato filling should be moist and easily spreadable on the dosa. Make sure there is no water in the potato stuffing. It should not be of a curry or gravy consistency.
+        Make Masala Dosa
+        Now lightly stir the batter, before you begin to make dosa. You will also see tiny air pockets in the batter with an increase in its volume.
+        take batter in a big spoon
+        Heat a cast iron pan or a flat non-stick pan. The pan should be medium hot. Smear some oil if using an iron pan or griddle. Don’t smear oil on a non stick pan, as then you won’t be able to spread the batter easily
+        Dosa batter has a medium-thick to medium flowing consistency and is easily pourable.
+        Keep the heat to a low, while spreading batter.
+        Spread the batter in a circular way on the pan. On a medium heat, cook the dosa,Sprinkle some oil on top and edges
+        Cover the dosa with a lid and let it cook.
+        Cook till its base becomes golden and crisp. You can spread the oil which was sprinkled earlier on the dosa with a spoon.
+         When you see the base has become golden, the edges have separated from the pan and the dosa has cooked, place a portion of the potato masala filling on the dosa.
+        </string>
+            <string name="mydish9">Boil the veggies first and keep them ready.
+                Heat 1 tablespoon of butter and oil in a large pot on medium heat. Once the butter melts and oil is hot, add the cumin seeds and let them sizzle.
+        Add the chopped onions and mix.
+        Cook the onions for around 4 minutes until golden brown in color. Add the finely chopped ginger, garlic and green chili.
+        Cook the ginger-garlic-green chili for 1 minute.Add chopped tomatoes and mix well. Let the tomatoes cook for 2 minutes.
+        Add tomato puree, 1/4 cup water and 1/4 teaspoon salt. Cover the pan and let the tomato cook for 6 minutes until softened and completely cooked
+        Add the pav bhaji masala, Kashmiri red chili powder, red chili powder and remaining 1 teaspoon of salt
+        Stir in the boiled veggies and mix.
+        Using a potato masher, mash the veggies until they are completely mixed with the masala.
+        Add the remaining 3/4 – 1 cup water and mix.
+        Cover the pot and set heat to low. Let the bhaji simmer on low heat for 15 minutes.
+        Open the pot and add in the remaining 2 tablespoons of butter.Add a generous amount of chopped cilantro.Then add in juice of 1 large lemon. Let the bhaji simmer for 2 more minutes and then remove pan from heat.
+        To toast the pav, melt butter on a pan. Sprinkle some pav bhaji masala on top of the butter and then place the buns on the pan.
+        Press to toast the pav until crisp and golden brown from both sides.
+
+    </string>
+
+    <string name="mydish10">
+            Firstly, in a large bowl take 1 cup rava and 2 tbsp maida.
+    Add 3 tbsp oil, crumble and mix well making sure the rava turns moist.
+    Now add ¼ cup hot water and start to knead.
+    Knead for 5 to 8 minutes or until the dough is formed.
+    Sprinkle water as required and knead to a smooth and soft dough.
+    Cover the dough and rest for 20 minutes.
+    After 20 minutes, continue to knead for 2 more minutes.
+    Now pinch a very small ball sized dough.
+    Roll and flatten into small disk making sure it is thin.
+    Deep fry in hot oil, do not overcrowd the oil.
+    Flip over once the puri puffs up.
+    Fry on medium flame until it turns golden brown and crisp from both the sides.
+    Drain off over kitchen paper to get rid off excess oil.
+    Puri is ready for pani puri. once cooled completely, you can store in an airtight container and use it for a week.
+    THEEKA PANI PREPARATION:
+    Firstly, in a small blender take ¼ cup mint, ½ cup coriander, 1 inch ginger, 2 chilli and small ball sized tamarind.
+    Blend to smooth paste adding water as required.
+    Transfer theeka pani puri paste into a large bowl.
+    Add 1 tsp chaat masala, 1 tsp cumin powder, pinch hing, ¾ tsp salt and 4 cup cold water.
+    Mix well and theeka pani is ready to enjoy with golgappa.
+    FOR KHATTA MEETHA PANI PREPARATION:
+    Firstly, in a large bowl take 1 cup tamarind extract and 3 tbsp jaggery.
+    Also add 1 tsp chaat masala, 1 tsp cumin powder, ¼ tsp pepper powder, ¼ tsp chilli powder, pinch hing, ¾ tsp salt and 3 cup cold water.
+    Mix well and khatta meetha pani is ready to enjoy with golgappa.
+    ALOO STUFFING PREPARATION:
+    Firstly, in a small bowl take 3 potato, ½ onion and 2 tbsp coriander.
+    Also add ½ tsp cumin powder, ½ tsp chaat masala, ¼ tsp pepper powder, ½ tsp chilli powder and ½ tsp salt.
+    Mix well making sure everything is well combined.
+    Aloo stuffing is ready to enjoy with puchka.
+    ASSEMBLING PANI PURI FOR SERVING:
+    Firstly, just before serving add handful of boondi to theeka pani and khatta meetha pani.
+    Make a small hole in centre of puri.
+    Stuff a tsp of prepared aloo stuffing into puri.
+    Dip into theeka pani or khatta meetha pani and enjoy.
+    Finally, pani puri recipe is ready to serve.
+        </string>
+    <string name="mydish11">
+        Firstly, thinly slice the onions. make sure to slice of uniform thickness as it helps to fry easily.
+    Transfer the sliced onion into a large bowl.
+    Add 3 chilli, few curry leaves, 2 tbsp coriander, 1 tsp chilli powder, ¼ tsp turmeric, ¼ tsp cumin powder, ¼ tsp ajwain, 1 tsp ginger paste and ¾ tsp salt.
+    Squeeze and mix well making sure all the spices are well combined and onions release moisture.
+    Further add 1½ cup besan, ¼ cup rice flour and mix well.
+    Squeeze and mix without adding any water.
+    The water in the onion is enough to form the dough. add more besan if required.
+    Now drop the dough into hot oil forming a random shape.
+    Fry on medium flame stirring occasionally.
+    Fry until the pakoda turns golden brown and crisp.
+    Finally, drain off the pakoda and enjoy with hot tea.
+    HOW TO MAKE HARI DAHI CHATNI:
+    Firstly, in a bowl take ½ cup thick curd and 2 tbsp green chutney.
+    Mix well making sure everything is well combined.
+    Finally, enjoy dahi chatni with onion pakoda.
+    </string>
+    <string name="mydish12">
+            firstly, in a large vessel take water and add 1 tsp salt.
+    once the water comes to a boil, add 2 potato.
+    boil for 2 minutes and drain off the potato.
+    now add ¼ tsp turmeric, ½ tsp chilli powder and ¼ tsp salt.
+    mix well making sure all the spices are well combined.
+    further, add 2 tbsp maida, 2 tbsp cornflour and 2 tbsp water.
+    mix well adding more water forming a smooth batter.
+    now deep fry in hot oil, keeping the flame on medium.
+    stir occasionally and fry until the aloo turns golden and crisp.
+    drain off and keep aside.
+    in a large wok, take 2 tbsp oil. stir fry 3 clove garlic, 1 inch ginger and 2 tbsp spring onions.
+    add and stir fry ½ onion, ½ capsicum.
+    now add 2 tbsp tomato sauce, 2 tbsp vinegar, 2 tbsp soy sauce, ¼ tsp chilli powder, ¼ tsp salt and ¼ tsp pepper powder.
+    stir fry on high flame until the sauces are well combined.
+    further, add ½ cup cornflour slurry. to prepare the slurry, mix 1 tsp cornflour in ½ cup water.
+    cook until the slurry turns glossy.
+    now add fried aloo, 2 tbsp spring onion and mix gently on high flame.
+    finally, enjoy chilli potato recipe topped with roasted sesame.
+    </string>
+        <string name="mydish13">
+            Firstly, in a large mixing bowl take 3 boiled potato.
+    Also add 1 green chilli, 1-inch ginger, 2 tbsp coriander,¼ tsp chilli powder, ½ tsp aamchur and ½ tsp chaat masala.
+    Combine all the ingredients well and aloo stuffing is ready.
+    Further, spread 1 tsp of green chutney over bread slice and cut half.
+    Spread a tbsp of prepared aloo stuffing over half slice of bread.
+    Cover with another half slice and dip into besan batter covering both sides.
+    Deep fry immediately into hot oil.
+    Splash oil over bread pakora and fry on medium flame flipping occasionally.
+    Fry till the pakora turns golden and crisp.
+    Finally, serve bread pakora with green chutney or tomato sauce.
+
+        </string>
+        <string name="mydish14">
+            firstly, in a large kadai heat, 2 tsp oil and splutter tempering.
+    add 4 shallots, 2 chilli and saute for a minute till it changes colour.
+    further, add 1 tomato and continue to cook.
+    now add mixed vegetables and saute for 2 minutes.
+    further, add ¼ tsp turmeric, ½ tsp jaggery, 1 tsp salt and 1 cup water.
+    mix well, cover and boil for 10 minutes.
+    now add ¾ cup tamarind extract and mix well.
+    cover and boil for 10 minutes.
+    additionally, add 1 cup toor dal, water and mix well.
+    add in 4 tsp of prepared sambar powder.
+    boil for a minute, until the flavours are well absorbed.
+    add in 2 tbsp coriander leaves and mix well.
+    finally, enjoy idli sambar with hot steamed idli.
+        </string>
+    <string name="mydish15">
+        Firstly, in a large kadai boil 6 cup water and 1 tsp salt.
+    Once the water comes to a boil, add 2 cup pasta. i have used elicoidali pasta, you can alternatively use penne pasta.
+    Boil for 7 minutes, or until the pasta is cooked al dente.
+    Drain off the pasta and keep aside.
+    In a frying pan, heat 2 tbsp oil and saute 3 clove garlic.
+    Add ½ onion, ½ carrot, ½ capsicum and 3 tbsp sweet corn.
+    Saute for a minute or until vegetables shrink slightly yet remain crunchy.
+    Further, add ½ tsp pepper and ½ tsp salt.
+    Saute well until the spices are well combined. keep aside.
+    To prepare white sauce for pasta, heat 2 tbsp butter.
+    Add 3 tbsp maida and saute on low flame.
+    Saute until the maida turns aromatic yet do not change its colour.
+    Now add 1 cup milk and mix well.
+    Mix until the sauce thickens without forming any lumps.
+    Further, add 1 more cup of milk and continue to stir continuously.
+    Mix continuously, until the sauce thickens. if required using a whisk break the lumps.
+    Cook until the sauce turns silk smooth and creamy texture.
+    Now add ½ tsp pepper, ½ tsp chilli flakes, ½ tsp mixed herbs and ½ tsp salt.
+    Mix well making sure everything is well combined.
+    Add in sauted vegetables and combine well.
+    Now add in boiled pasta and mix gently.
+    Add 2 tbsp of boiled pasta water if the sauce thickens.
+    Mix gently making sure everything is well combined.
+    Finally, just before serving white sauce pasta, garnish with grated cheese.
+    </string>
+        <string name="mydish16">
+            Slice the potatoes and place them in cold water to prevent browning.
+    Make a batter with flour and seasonings.
+    Dip the sliced potatoes in the batter.
+    Fry until golden brown and crispy.
+        </string>
+        <string name="mydish17">
+            firstly, in a large bowl take 2 cup maida, 2 tbsp rava, 1 tsp sugar, ¼ tsp baking soda, 1 tsp sugar, ½ tsp salt and 2 tbsp oil. mix well.
+    now add ¼ cup curd and mix well making sure everything is well combined.
+    further, add water as required and knead the dough.
+    knead to the smooth and soft dough without putting much pressure.
+    grease the dough with oil, cover and rest for 2 hours
+    after 2 hours, knead the dough slightly.
+    pinch a ball sized dough and make a ball without andy cracks.
+    roll slightly thick, applying oil to prevent from sticking.
+    drop the rolled dough into the hot oil.
+    press until the bhature puffs up and splash oil to puff up fully.
+    flip over and fry until it turns golden brown.
+    finally, drain off the bhatura and is ready to enjoy with chole masala.
+    how to make chole recipe for batura:
+    firstly, in a pressure cooker take soaked chana. i have soaked 1 cup chana in enough water for 8 hours.
+    add 2 tea bags, ¼ tsp baking soda, 1 tsp salt and 3 cup water.
+    cover and pressure cook for 5 whistles. if you do not have tea bags, then you can prepare tea decoction and add to cooker.
+    once the pressure releases, open the cooker and discard the tea bags. keep aside.
+    in a large kadai, heat 2 tbsp oil, 1 bay leaf, 1 black cardamom, 2 pod cardamom, 1 inch cinnamon, 1 tsp cumin, ½ tsp kasuri methi. saute on low flame until the spices turn aroamtic.
+    now add 1 onion, 1 tsp ginger garlic paste and saute until onions turn golden brown.
+    add ¼ tsp turmeric, 1 tsp chilli powder, 1 tsp coriander powder, ½ tsp cumin powder, ½ tsp garam masala, 1 tsp aamchur and ¼ tsp salt.
+    saute on low flame until the spices turn aromatic.
+    further add 1½ cup tomato puree and saute until the oil separates. to prepare tomato puree, i have blended 2½ ripened tomatoes in blender without adding water.
+    now add boiled chole and mix well. adjust consistency by adding water if required.
+    cover and simmer for 10 minutes, or until chole absorbs all the flavour.
+    to prepare the tempering, heat 1 tbsp ghee in a pan.
+    add 2 chilli, ¼ tsp turmeri, ¼ tsp chilli powder and ¼ tsp garam masala.
+    saute on low flame without burning the spices.
+    pour the tempering over the chole masala, add 2 tbsp coriander and mix well.
+    finally, chole bhature is ready to enjoy with some onions.
+
+        </string>
+        <string name="mydish18">
+            Firstly pressure cook 1 cup white peas, 2 cup water and ½ tsp salt.
+    Now in a kadai heat 3 tsp oil and saute 1 inch ginger.
+    Further saute spices.
+    Additionally add in pressure cooked white peas and mix well.
+    Mash slightly for desired consistency.
+    Now add in prepared jaljeera chutney and mix well.
+    Boil for 5 minutes or more adjusting consistency.
+    Garnish with onion, tomato, coriander leaves, ginger, green chilli, lemon and chaat masala.
+    Finally, serve matar kulcha recipe with plain kulcha or naan.</string>
+
+<string name = "mycontent1">
+ Rinse 3 medium sized potatoes (250 grams) in fresh water and then peel them. Chop the potatoes in small bite sized cubes.
+    Mix with the oil and begin to fry them. Remember to fry at medium heat.
+Warm or a cooler temperature of the oil will make the potatoes soggy with oil. A very hot oil will brown the outer crust of the potato cubes quickly but they will be undercooked from the center.
+chopped potatoes frying and a slotted spoon
+when one side becomes golden, turn the potatoes over and fry them on the other side. Keep on turning the potatoes at intervals using a slotted spoon until they are fried evenly.
+ Fry until the potatoes are crispy and golden. Make sure the potato cubes are not raw or half-cooked on the inside.
+ Once the potatoes are tender, crisp and golden then remove them with a slotted spoon draining as much oil in the pan as possible.
+potato cubes removed with a slotted spoon
+Place fried potato cubes on kitchen paper towels to absorb extra oil. Then, fry the second batch of potatoes if you have used a small or medium-sized wok or pan.
+golden bite sized potatoes on a paper towel
+Make Aloo Chaat
+When the potatoes are still hot take all of them in a mixing bowl.
+hot potatoes in a mixing bowl
+Then add the following ground spice powders:
+¼ teaspoon of black pepper powder
+½ teaspoon of Kashmiri red chili powder or sweet paprika
+½ teaspoon of roasted cumin powder
+½ teaspoon of dry mango powder (amchur powder)
+½ teaspoon of chaat masala powder
+spice powders and salt with cooked hot potato cubes
+Next, add 1 tablespoon of finely chopped mint leaves and 2 tablespoons of finely chopped coriander leaves (cilantro).
+Options: Add 1 finely chopped green chili (about ½ teaspoon finely chopped). Green chilies add pungent hot notes to the potatoes. Only add green chilies if you like eating raw green chilies. Here I have not added green chillies, but I do add them on occasions.
+cooked cubed potatoes with spices, chopped coriander, mint leaves, and saltToss and mix well.
+potatoes mixed and tossed with spices, mint, coriander and salt
+ Then add 1 tablespoon of sweet tamarind chutney. Add less or more to suit your taste. At this step you can add coriander chutney or green chutney if you want.
+potato mixture with chutney Sprinkle 1 to 2 teaspoons of lemon juice for some tang
+potato mixture with chutney and lemon juice
+Toss and mix everything very well. The chutney, spice powders and lemon juice should coat the fried potatoes evenly. Taste the potatoes and adjust the seasoning to your taste.
+Some people like to add whisked curd to the aloo chaat. Since we have used sweet tamarind chutney you can easily add beaten or whisked curd at this point according to your taste.
+The addition of curd will add some richness and creaminess. Make sure the curd or yogurt is fresh and not sour.
+aloo chaat in a bowl Add chaat to a serving bowl and serve aloo chaat garnish with pomegranate arils or sev (fried gram flour vermicelli) and serve as an evening snack or starter.If garnishing or topping with sev then serve immediately or else they will soften and you won’t get that crunchy texture of the sev.
+
+</string>
+
+    <string name ="mydish20">
+          Proof the yeast:
+Place the warm water in the large bowl of a heavy duty stand mixer. Sprinkle the yeast over the warm water and let it sit for 5 minutes until the yeast is dissolved.
+After 5 minutes stir if the yeast has not dissolved completely. The yeast should begin to foam or bloom, indicating that the yeast is still active and alive.
+How to Proof Yeast
+Make and knead the pizza dough:
+Add the flour, salt, sugar, and olive oil, and using the mixing paddle attachment, mix on low speed for a minute. Then replace the mixing paddle with the dough hook attachment.
+Knead the pizza dough on low to medium speed using the dough hook about 7-10 minutes.
+If you do not have a mixer, you can mix the ingredients together and knead them by hand.
+The dough should be a little sticky, or tacky to the touch. If it is too wet, sprinkle in a little more flour.
+Let the dough rise:
+Spread a thin layer of olive oil over the inside of a large bowl. Place the pizza dough in the bowl and turn it around so that it gets coated with the oil.
+At this point you can choose how long you want the dough to ferment and rise. A slow fermentation (24 hours in the fridge) will result in more complex flavors in the dough. A quick fermentation (1 1/2 hours in a warm place) will allow the dough to rise sufficiently to work with.
+Cover the dough with plastic wrap.
+For a quick rise, place the dough in a warm place (75°F to 85°F) for 1 1/2 hours.
+For a medium rise, place the dough in a regular room temperature place (your kitchen counter will do fine) for 8 hours. For a longer rise, chill the dough in the refrigerator for 24 hours (no more than 48 hours).
+The longer the rise (to a point) the better the flavor the crust will have.
+Preheat the pizza stone (or pizza pan or baking sheet):
+Place a pizza stone on a rack in the lower third of your oven. Preheat the oven to 475°F for at least 30 minutes, preferably an hour. If you do not have a pizza stone, you can use a pizza pan or a thick baking sheet; you need something that will not warp at high temperatures.
+Divide the dough into 2 balls:
+Remove the plastic cover from the dough. Dust your hands with flour and push the dough down so it deflates a bit. Divide the dough in half.
+Form 2 round balls of dough. Place each in its own bowl, cover with plastic and let sit for 15 minutes (or up to 2 hours).
+Prep the toppings:
+Prepare your desired toppings. Note that you are not going to want to load up each pizza with a lot of toppings as the crust will end up not crisp that way
+About a third a cup each of tomato sauce and cheese would be sufficient for one pizza. One to two mushrooms thinly sliced will cover a pizza.
+Flatten the dough ball, and stretch out into a round:
+Working one ball of dough at a time, take one ball of dough and flatten it with your hands on a lightly floured work surface.
+Starting at the center and working outwards, use your fingertips to press the dough to 1/2-inch thick. Turn and stretch the dough until it will not stretch further.
+Let the dough relax 5 minutes and then continue to stretch it until it reaches the desired diameter—10 to 12 inches.
+Treat the dough gently!
+You can also hold up the edges of the dough with your fingers, letting the dough hang and stretch, while working around the edges of the dough.
+If a hole appears in your dough, place the dough on a floured surface and push the dough back together to seal the hole.
+Use your palm to flatten the edge of the dough where it is thicker. Pinch the edges if you want to form a lip
+Brush the dough top with olive oil:
+Use your fingertips to press down and make dents along the surface of the dough to prevent bubbling. Brush the top of the dough with olive oil (to prevent it from getting soggy from the toppings). Let rest another 10 to 15 minutes.
+Repeat with the second ball of dough.
+Sprinkle the pizza peel with cornmeal, put flattened dough on top:
+Lightly sprinkle your pizza peel (or flat baking sheet) with cornmeal. (The corn meal will act as little ball bearings to help move the pizza from the pizza peel into the oven.)
+Transfer one prepared flattened dough to the pizza peel.
+If the dough has lost its shape in the transfer, lightly shape it to the desired dimensions.
+Spread with tomato sauce and sprinkle with toppings:
+Spoon on the tomato sauce, sprinkle with cheese, and place your desired toppings on the pizza. Be careful not to overload the pizza with too many toppings, or your pizza will be soggy.
+Slide pizza into the oven:
+Sprinkle some cornmeal on the baking stone in the oven (watch your hands, the oven is hot!). Gently shake the peel to see if the dough will easily slide, if not, gently lift up the edges of the pizza and add a bit more cornmeal.
+Slide the pizza off of the peel and onto the baking stone in the oven.
+Bake:
+Bake pizza in the 475°F oven, one at a time, until the crust is browned and the cheese is golden, about 10 to 15 minutes. If you want, toward the end of the cooking time you can sprinkle on a little more cheese.
+        Now it is ready to serve it
+            </string>
+    <string name ="mydish21">
+
+            Firstly, in a large vessel take enough water.
+            Add 1 tsp salt, 2 tsp olive oil and get the water to a boil.
+            Now add 2 cup penne pasta and give a good stir. this helps to prevent pasta from sticking to the bottom of the pan.
+            Boil for 9 minutes or check the package instruction to cook the pasta until al dente.
+            Drain off the water and keep the boiled pasta aside.
+            Firstly, in a pan heat 1 tsp butter, 2 tsp olive oil and 2 tbsp maida.
+            Roast on low flame until the maida turns aromatic.
+            Now add 1½ cup milk and stir continuously. make sure the milk is chilled, else you may have lumps in the sauce.
+            Keep stirring until the sauce thickens up slightly.
+            Now add ¼ tsp mixed herbs, ¼ tsp chilli flakes, ¼ tsp salt and 3 tbsp cheese.
+            Give a good mix. white sauce for pasta is ready. do not overcook as the sauce thickens and turns to paste consistency.
+            HOW TO MAKE RED SAUCE FOR PASTA:
+            Firstly, in a large wok heat 3 tsp olive oil, 1 tsp butter, 3 clove garlic, ½ tsp mixed herbs and ½ tsp chilli flakes.
+            Saute on low flame until the spices turn aromatic.
+            Now add 1 onion and saute until the onions sweat slightly.
+            Further, add 1½ cup tomato puree and cook on medium flame until the puree thickens slightly.
+            Also add 2 tbsp tomato sauce, ½ tsp chilli powder and ½ tsp salt.
+            Continue to cook until the sauce thickens. red sauce is ready for the pasta.
+            HOW TO MAKE PINK SAUCE FOR PASTA:
+            Now combine prepared white sauce with the red sauce. add as required, as this white sauce makes the pasta creamy.
+            Now you can see the colour of the pasta sauce has been changed to pink. pink sauce is ready to prepare pasta.
+            Add in boiled pasta and give a good mix.
+            The pasta is so creamy and saucy.
+            You can also add 3 tbsp cheese, ¼ tsp chilli flakes and ¼ tsp mixed herbs.
+            Mix well combining everything well.
+            Finally, enjoy pink sauce pasta with more cheese.
+            </string>
+    <string name = "mydish22">
+         Break 6 to 7 slices of bread and add in a mixer or dry grinder. Grind to a semi-fine consistency and do not make it floury or powdery. Place the bread crumbs in a plate or bowl. Set aside.
+        Breadcrumbs are used to bind the vegetable patties. Breading them with breadcrumbs also makes them crisp.+
+                Preparing veggies
+         Now rinse and steam 3 medium to large potatoes, 1 medium to large carrot, 8 to 9 french beans and ⅓ to ½ cup green peas until they are completely cooked. ker, pan or instant pot.
+        Stove-top pressure cooker: Peel and chop potatoes, carrots and beans. Place them with the green peas in a pan or bowl. Add 2 cups water in a 3 litre cooker. Place a small trivet inside. Place the bowl with the veggies on the trivet. Pressure cook for 10 to 12 minutes on medium-heat. Let the pressure fall naturally in the cooker and then only remove the lid.
+        Instant pot method: Pour 1.5 cups water in the steel insert of 6 quart IP. Keep a trivet inside the steel insert. Place the whole potatoes, carrots, beans in a steamer pan or on the trivet. Take green peas in a small bowl and place it on the steamer pan or on the trivet. Pressure cook for 10 to 12 minutes until veggies are tender. Let the pressure release naturally.
+        Cooking in a pan: Peel and chop potatoes, carrots in small cubes. Chop the beans to small pieces. Place the chopped veggies and green peas in a pan. Add water just about covering the vegetables. Cover and simmer on medium-low flame until veggies are fork tender.
+        Once cooked strain the vegetables well.
+        Peel and roughly chop the potatoes when warm. Also peel the cooked carrots and finely chop them and the french beans.
+        When the mashed potatoes cools down completely, add the chopped carrots and beans. Also add the steamed peas.
+        chopped carrots, beans and steamed green peas added to mashed potatoesMix everything well and set aside
+        veggie mixture mixed evenly to make veg patties for burger recipe
+        Then finely chop 1 medium sized onion and crush 4 to 5 garlic cloves, ½ inch ginger and 1 or 2 green chilies (hot peppers) into a paste. Set aside.
+        chopped onions and green chili, garlic, ginger paste in glass bowls
+        Heat 1 teaspoon oil in a pan. Add the ginger-garlic-green-chili paste. Sauté for some seconds till the raw aroma of ginger and garlic goes away.
+        sautéing green chili, garlic, ginger paste in oil
+        Add the chopped onions.
+        chopped onions added
+        Stir and sauté until the onion turns translucent or light brown.
+        onions sautéed and translucent
+        Add ½ teaspoon coriander powder, ½ teaspoon cumin powder, ½ teaspoon garam masala powder, ½ teaspoon red chili powder or cayenne pepper and ¼ teaspoon turmeric powder.
+        ground spices added to sautéed onions
+        Stir and mix the ground spices with the rest of the mixture.
+        spice powders mixed with onion
+                Switch off the heat and then add the chopped coriander leaves (cilantro) or fresh parsley. Stir very well and add this sautéed onion mixture to the mashed veggies.
+        Add salt as per taste and 5 to 6 tablespoons of bread crumbs.
+        breadcrumbs and salt added
+        Mix very well. Set aside the patty mixture. Check the seasonings and add more salt and ground spices if required
+        vegetable patty dough ready to make veggie burger recipe
+        Make the size of the veggie patties the same as the size of the buns.
+        Making mayonnaise dressing
+        Place 3 tablespoons Eggless Vegan Mayonnaise in a small mixing bowl. Add ½ teaspoon mustard seeds which have been crushed or powdered in a small spice grinder or mortar-pestle. Also add ½ teaspoon freshly crushed black pepper.
+         Add ½ to 1 tablespoon lemon juice. You can also add lemon juice as per your taste.
+        Add ½ teaspoon apple cider vinegar or white vinegar and 1 tablespoon extra virgin olive oil or olive oil.Season with ¼ to ½ teaspoon sugar.Whisk the dressing very well. Set aside.
+        Slice 1 small onion, 1 small tomato and 1 small cucumber thinly. Shred or chop 4 to 5 small lettuce leaves or blanched cabbage leaves. Cover and set these veggies aside.
+        sliced onions, tomatoes, cucumber and chopped lettuce on a steel plate
+        Preparing batter
+        In a medium sized mixing bowl take 3 tablespoons maize flour, polenta or fine cornmeal, 3 tablespoons rice flour and 2 tablespoons gram flour (besan or chickpea flour)
+        Add ½ cup water. Stir and mix everything to a smooth batter without any lumps. The batter should be of medium consistency.
+        Breading
+        Begin to heat 2 to 3 tablespoons oil for pan frying the vegetable patties. When the oil becomes medium hot, dip the veggie patty in the batter.
+        veg patties being dipped in the batterCoat evenly with the batter. Place the batter coated veggie patty on the breadcrumbs.
+        coating veg patty with bread crumbs in a plate
+        Dredge the batter coated veggie patty evenly with the breadcrumbs.
+        Depending on the size of your pan, you can fry from 2 to 4 patties. The veggie mixture makes 4 regular burger sized patties.
+        2 to 3 tablespoons oil is used for pan frying 2 veggie patties. For frying 4 patties, you will need 4 to 6 tablespoons oil.
+        When the base is lightly browned or golden, then flip the veg pattiesFlip a couple of times until the patties are pan fried evenly and the crust becomes crisp and golden.
+        veggie patties nicely crisp and golden for making burger recipe
+        Drain the veggie patties on paper towels to remove excess oil.
+        veg patties on kitchen paper towels
+        Toasting burger buns
+        Slice the burger buns in equal halves. Spread some butter on the burger bun slices
+        butter spread on halved burger buns
+        Heat a small pan and toast the buttered side of the burger bun slice. For a vegan option, toast the burger bun with little oil.
+        burger buns with the buttered side being lightly toasted in a pan
+        The buttered side should become lightly crisp and golden. Toast all the burger buns this way. If you want you can toast the second side tooAssembling Veggie Burger
+        Now spread the spiced mayonnaise dressing on the butter toasted side.
+         Place the vegetable patty on the bun.
+        Top up with sliced veggies like onion slices, tomato slices or cucumber slices.
+        veggie patty topped with slices of onions, cucumber and tomatoesSpread some mayonnaise dressing on the second halve of the burger bun and top up with some shredded or chopped lettuce (which have been rinsed and then dried of all the moisture) or blanched cabbage leaves.
+        Place the burger buns on top of each other.
+        burger completed and ready to be served
+        serve it
+
+    </string>
+
+    <string name="mydish23">
+        Preheat oven to 400°F. Toss together mushrooms, oil, tamari, salt, and pepper on a large rimmed baking sheet and spread in an even layer. Bake until mushrooms are browned and crisp around the edges, 20 to 25 minutes, flipping once halfway through cook time.
+    Build sandwiches with mayonnaise, mushrooms, lettuce, and tomato.
+</string>
+    <string name ="mydish24">
+         firstly, peel the skin of the large potato. make sure to use a large potato to get good slices.
+        slice the potato as thin as possible.
+        now transfer the potato slice to a large bowl and add chilled water.
+        rinse well and spread on kitchen towel.
+        rub off the excess water. this helps to prevent oil spluttering.
+        drop the sliced potato into hot oil without overcrowding.
+        stir occasionally and fry on medium flame.
+        fry until the chips turn crispy.
+        drain off into a colander. do not drain over kitchen paper as it turns chips soggy.
+        now add 1 tsp chilli powder and ½ tsp salt.
+        toss and mix well making sure all the spices are coated.
+        finally, enjoy potato chips recipe or store in an airtight container for a month.
+            </string>
+    <string name = "mydish25">
+        Firstly, in pan heat 2 tsp oil and saute 2 clove garlic and ½ onion.
+        Add ½ carrot, 2 tbsp capsicum, ½ tomato and 2 tbsp sweet corn.
+        Saute until the vegetables turn crunchy.
+        Further add ¼ tsp turmeric, ½ tsp chilli powder, ¼ tsp salt and saute until the spices turn aromatic.
+        Add 1 cup water and get to a boil.
+        Now bread 1 pack maggi noodles roughly and add 1 pack tastemaker.
+        Mix well and boil for 2 minutes or until the noodles are cooked well.
+        Finally, add 2 tbsp coriander and enjoy masaledar maggi.
+    </string>
+
+    <string name ="mydish26">
+Firstly, in pan heat 2 tsp oil and saute 2 clove garlic and ½ onion.
+        Add ½ carrot, 2 tbsp capsicum, ½ tomato and 2 tbsp sweet corn.
+        Saute until the vegetables turn crunchy.
+        Further add ¼ tsp turmeric, ½ tsp chilli powder, ¼ tsp salt and saute until the spices turn aromatic.
+        Add 1 cup water and get to a boil.
+        Now bread 1 pack maggi noodles roughly and add 1 pack tastemaker.
+        Mix well and boil for 2 minutes or until the noodles are cooked well.
+        Finally, add 2 tbsp coriander and enjoy masaledar maggi.
+
+    </string>
+
+    <string name = "mydish27">
+        BOILING PASTA:
+        Firstly, in a large kadai boil 6 cup water and 1 tsp salt.
+        Once the water comes to a boil, add 2 cup pasta. i have used elicoidali pasta, you can alternatively use penne pasta.
+        Boil for 7 minutes, or until the pasta is cooked al dente.
+        Drain off the pasta and keep aside.
+        PASTA SAUCE PREPARATION:
+        Firstly, in a large vessel with hot boiling water, drop 5 tomato marked x.
+        Also, add 2 dried red chilli and boil for 5 minutes.
+        Drain off and peel the skin of tomatoes.
+        Blend to smooth paste, keep aside.
+        In a large wok, take 2 tbsp olive oil and saute 2 clove garlic.
+        Add 1 onion and saute well.
+        Further add 1 tsp chilli flakes, 1 tsp mixed herbs, ¼ tsp pepper powder and ½ tsp salt. saute well.
+        Now add prepared tomato puree, 2 tbsp tomato sauce and mix well.
+        Cook for 2 minutes or until tomato puree is cooked completely.
+        Now add in boiled pasta and mix well.
+        Finally, grate some cheese and enjoy red sauce pasta.
+    </string>
+    <string name ="mydish28">
+        Firstly, prepare stuffing by heating 3 tsp oil and saute 3 clove garlic, 1 inch ginger and 2 chilli.
+        Also, add 2 tbsp spring onion and saute on high flame.
+        Further, add 1 cup carrot and 2 cup cabbage. stir fry on high flame.
+        Now add ½ tsp pepper and ½ tsp salt.
+        Additionally, 2 tbsp spring onion and stuffing mixture is ready.
+        Further, pinch a small ball sized momos dough and flatten.
+        Now dust with some maida and start to roll using a rolling pin.
+        Roll to almost medium thin circle. around 4 – 5 inch in diameter. make sure you roll from sides and keep the centre slightly thick.
+        Now place a heaped tbsp of prepared stuffing in the centre.
+        Start pleating the edges slowly and gather everything.
+        Press in middle and seal the momos forming a bundle.
+        Heat a steamer and arrange the momos in the tray without touching each other.
+        Furthermore, steam momos for 10-12 minutes or till shiny sheen appears over it.
+        Finally, veg momos recipe is ready to enjoy with momos chutney.
+            </string>
+
+    <string name = "mydish29">
+    Firstly, in a large mixing bowl take 3 boiled and grated potato. make sure to pressure cook potatoes for 4-5 whistles and drain off the water as soon as pressure releases.
+    Add 1 chilli, 1 tsp ginger garlic paste, ¼ tsp turmeric and ½ tsp chilli powder.
+    Also add ½ tsp cumin powder, ½ tsp aamchur, ½ tsp chaat masala and ½ tsp salt.
+    Further add 2 tbsp mint and 2 tbsp coriander.
+    Now add 2 tbsp cornflour and mix well alternatively use poha powder or rice flour as it helps to absorb moisture.
+    Mix well forming a soft dough.
+    Grease hand with oil and prepare ball-sized tikki.
+    Shallow fry in hot oil. you can alternatively roast or deep fry.
+    Roast on low flame until it turns golden brown.
+    Flip over and cook on both sides.
+    Finally, enjoy aloo tikki with green chutney, tamarind chutney or prepare aloo tikki chaat.
+    </string>
+
+
+</resources>
